@@ -62,5 +62,5 @@ Dashboard screenshots are available in the `images/` folder.
 ---
 
 ## Author
-**Mayank V. X**  
+**Mayank Bisht**  
 Aspiring Data Analyst
