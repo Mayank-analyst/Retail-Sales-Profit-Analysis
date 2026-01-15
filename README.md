@@ -49,7 +49,12 @@ The Power BI report contains two interactive pages:
 - Shipping mode analysis
 - Discount vs Profit analysis
 
-Dashboard screenshots are available in the `images/` folder.
+## 📊 Power BI Dashboard Preview
+
+![Dashboard Page 1](Retail-Sales-And-Profit%20Analysis/Images/Dashboard%20Page%201.png)
+
+![Dashboard Page 2](Retail-Sales-And-Profit%20Analysis/Images/Dashboard%20Page%202.png)
+
 
 ---
 
